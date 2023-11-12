@@ -1,5 +1,5 @@
 ## Fall2023_IDS706 Mini Project 11: Data Pipeline with Databricks
-### by Jiayi Zhou
+### by Jiayi Zhou [![CI](https://github.com/nogibjj/Fall2023_IDS706_MiniProject11_JiayiZhou/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Fall2023_IDS706_MiniProject11_JiayiZhou/actions/workflows/cicd.yml)
 ### Purpose
 This is for class data engineering mini project 11: Data Pipeline with Databricks. It uses Databricks notebook and create a data pipeline using Databricks. As for one data sink, it utilizes Delta Lake for data storage. The data source is from [fivethirtyeight](https://github.com/fivethirtyeight/data/blob/master/womens-world-cup-predictions/wwc-matches-20150701-205548.csv).
 
